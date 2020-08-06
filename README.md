@@ -1,1 +1,1 @@
-# JavaScript-Rudiments
+# JavaScript-Fundamentals
